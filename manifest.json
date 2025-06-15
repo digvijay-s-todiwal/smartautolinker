@@ -1,0 +1,9 @@
+{
+  "id": "smartautolinker",
+  "name": "SmartAutoLinker",
+  "version": "1.0.0",
+  "author": "Digvijay S. Todiwal",
+  "description": "A minimalist, background-only phrase linking plugin for Obsidian that links full phrases silently and strictly.",
+  "main": "main.js",
+  "minAppVersion": "1.0.0"
+}
