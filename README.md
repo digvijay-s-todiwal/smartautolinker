@@ -1,5 +1,8 @@
 # 🧠 SmartAutoLinker (SAL) — Minimal & Fast Obsidian Auto-Linker
 
+   ![SmartAutoLinker Demo](Demo.gif)
+
+
 **SmartAutoLinker (SAL)** is a lightweight, silent plugin for Obsidian that **automatically links exact phrases** across your vault as you write — no UI clutter, no fuzzy distractions. Just simple, background linking. Ideal for writers, researchers, and minimalists who want fast, no-friction knowledge weaving.
 
 > ✅ Works quietly in the background  
